@@ -1,0 +1,10 @@
+v 4
+file . "AND16_Gate.vhdl" "ec989082ae9a9f790dc0ba5df35d89aa1aa2a743" "20260517101212.341":
+  entity and16_gate at 1( 0) + 0 on 13;
+  architecture sim of and16_gate at 11( 258) + 0 on 14;
+file . "../NOT16_Gate/NOT16_Gate.vhdl" "95cdbc4248d523f28b778608b09e1485706037f2" "20260517101148.100":
+  entity not16_gate at 1( 0) + 0 on 11;
+  architecture sim of not16_gate at 11( 217) + 0 on 12;
+file . "AND16_Gate_tb.vhdl" "065c26f3d53eab424bb26076082f182b4fd699a1" "20260517101543.150":
+  entity and16_gate_tb at 1( 0) + 0 on 17;
+  architecture sim of and16_gate_tb at 6( 109) + 0 on 18;

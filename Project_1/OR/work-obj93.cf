@@ -1,0 +1,13 @@
+v 4
+file . "OR_Gate_tb.vhdl" "bf6f7175589901d5444bbea29765b10a3c001907" "20260517051956.476":
+  entity or_gate_tb at 1( 0) + 0 on 17;
+  architecture sim of or_gate_tb at 7( 107) + 0 on 18;
+file . "../AND/AND_Gate.vhdl" "9f752e2dc9f41aee4904d9b52de035f31aa33ec7" "20260517051935.952":
+  entity and_gate at 1( 0) + 0 on 13;
+  architecture structure of and_gate at 13( 196) + 0 on 14;
+file . "../NOT/NOT_Gate.vhdl" "cde9fd3ed9c5172fbdd8d2e5e2c96830f9faa535" "20260517051920.554":
+  entity not_gate at 1( 0) + 0 on 11;
+  architecture structure of not_gate at 12( 173) + 0 on 12;
+file . "OR_Gate.vhdl" "1367e59f522bb4c5a7f53c5bd358b4e041957d4a" "20260517051947.724":
+  entity or_gate at 1( 0) + 0 on 15;
+  architecture structure of or_gate at 13( 197) + 0 on 16;

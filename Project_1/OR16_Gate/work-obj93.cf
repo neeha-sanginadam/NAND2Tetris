@@ -1,0 +1,13 @@
+v 4
+file . "OR16_Gate_tb.vhdl" "a356a12d1eb3e8e7babe115c0c19cdeab732d582" "20260517102532.090":
+  entity or16_gate_tb at 1( 0) + 0 on 17;
+  architecture structure of or16_gate_tb at 6( 108) + 0 on 18;
+file . "../AND16_Gate/AND16_Gate.vhdl" "ec989082ae9a9f790dc0ba5df35d89aa1aa2a743" "20260517102517.495":
+  entity and16_gate at 1( 0) + 0 on 13;
+  architecture sim of and16_gate at 11( 258) + 0 on 14;
+file . "../NOT16_Gate/NOT16_Gate.vhdl" "95cdbc4248d523f28b778608b09e1485706037f2" "20260517102503.375":
+  entity not16_gate at 1( 0) + 0 on 11;
+  architecture sim of not16_gate at 11( 217) + 0 on 12;
+file . "OR16_Gate.vhdl" "409d6ca455c324e6f43dd348aa9a479edba8db7a" "20260517102526.188":
+  entity or16_gate at 1( 0) + 0 on 15;
+  architecture sim of or16_gate at 11( 257) + 0 on 16;

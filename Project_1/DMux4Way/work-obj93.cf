@@ -1,0 +1,19 @@
+v 4
+file . "DMux4Way_tb.vhdl" "5deac31627cac54e91c018ec61d0f4d14c371c22" "20260518180726.907":
+  entity dmux4way_tb at 1( 0) + 0 on 21;
+  architecture sim of dmux4way_tb at 7( 108) + 0 on 22;
+file . "../DEMUX/DEMUX_Gate.vhdl" "646625c68a2d64d7dc013c5f26008e38c14f7894" "20260518180651.124":
+  entity demux_gate at 1( 0) + 0 on 17;
+  architecture sim of demux_gate at 13( 230) + 0 on 18;
+file . "../AND/AND_Gate.vhdl" "9f752e2dc9f41aee4904d9b52de035f31aa33ec7" "20260518180559.894":
+  entity and_gate at 1( 0) + 0 on 13;
+  architecture structure of and_gate at 13( 196) + 0 on 14;
+file . "../NOT/NOT_Gate.vhdl" "cde9fd3ed9c5172fbdd8d2e5e2c96830f9faa535" "20260518180546.929":
+  entity not_gate at 1( 0) + 0 on 11;
+  architecture structure of not_gate at 12( 173) + 0 on 12;
+file . "../OR/OR_Gate.vhdl" "1367e59f522bb4c5a7f53c5bd358b4e041957d4a" "20260518180609.378":
+  entity or_gate at 1( 0) + 0 on 15;
+  architecture structure of or_gate at 13( 197) + 0 on 16;
+file . "DMux4Way.vhdl" "b79c390cf4dc1dfc96c65edac5117a6ab8431ea1" "20260518180721.288":
+  entity dmux4way at 1( 0) + 0 on 19;
+  architecture sim of dmux4way at 15( 301) + 0 on 20;

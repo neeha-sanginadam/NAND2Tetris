@@ -1,0 +1,7 @@
+v 4
+file . "../NOT16_Gate/NOT16_Gate.vhdl" "95cdbc4248d523f28b778608b09e1485706037f2" "20260517101131.462":
+  entity not16_gate at 1( 0) + 0 on 15;
+  architecture sim of not16_gate at 11( 217) + 0 on 16;
+file . "NOT16_Gate_tb.vhdl" "d0fcf376a88cbe4a1182f32a0c3481dc09debeed" "20260517095742.466":
+  entity not16_gate_tb at 1( 0) + 0 on 13;
+  architecture structure of not16_gate_tb at 6( 109) + 0 on 14;

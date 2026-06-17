@@ -1,0 +1,16 @@
+v 4
+file . "OR8Way.vhdl" "86736a6cb13267b2d4fb1f24a9700a5baf7cb002" "20260518153737.325":
+  entity or8way at 1( 0) + 0 on 39;
+  architecture sim of or8way at 11( 189) + 0 on 40;
+file . "../AND/AND_Gate.vhdl" "9f752e2dc9f41aee4904d9b52de035f31aa33ec7" "20260518151514.102":
+  entity and_gate at 1( 0) + 0 on 13;
+  architecture structure of and_gate at 13( 196) + 0 on 14;
+file . "../NOT/NOT_Gate.vhdl" "cde9fd3ed9c5172fbdd8d2e5e2c96830f9faa535" "20260518151509.997":
+  entity not_gate at 1( 0) + 0 on 11;
+  architecture structure of not_gate at 12( 173) + 0 on 12;
+file . "../OR/OR_Gate.vhdl" "1367e59f522bb4c5a7f53c5bd358b4e041957d4a" "20260518151517.327":
+  entity or_gate at 1( 0) + 0 on 15;
+  architecture structure of or_gate at 13( 197) + 0 on 16;
+file . "OR8Way_tb.vhdl" "fc0f32f342a958a2ff53f2a1b649ddfe3bf4f3fb" "20260518153741.231":
+  entity or8way_tb at 1( 0) + 0 on 41;
+  architecture structure of or8way_tb at 7( 106) + 0 on 42;

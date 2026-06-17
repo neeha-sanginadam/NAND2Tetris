@@ -1,0 +1,13 @@
+v 4
+file . "x_tb.vhdl" "1efa0125e864691a121b883b870032ba7d897914" "20260516175924.133":
+  entity x_tb at 1( 0) + 0 on 23;
+  architecture sim of x_tb at 6( 100) + 0 on 24;
+file . "NOT_Gate_tb.vhdl" "5ccfda3d7c913b37b43f806f4b83cc3b6e0d5538" "20260516180401.347":
+  entity not_gate_tb at 1( 0) + 0 on 33;
+  architecture sim of not_gate_tb at 6( 107) + 0 on 34;
+file . "NOT_Gate.vhdl" "5da35a6392c1aa109b14b1a0587fc40d1141ec85" "20260516180358.416":
+  entity not_gate at 1( 0) + 0 on 31;
+  architecture structure of not_gate at 13( 200) + 0 on 32;
+file . "x.vhdl" "15bf8ff79ad62bd318b67e615770766b69bb5877" "20260516175826.213":
+  entity x at 1( 0) + 0 on 19;
+  architecture structure of x at 12( 166) + 0 on 20;
