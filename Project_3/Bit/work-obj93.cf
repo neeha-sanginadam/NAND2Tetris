@@ -1,0 +1,22 @@
+v 4
+file . "Bit_tb.vhdl" "d9856f72d3127b66de854dc9a87edab7ef1f877b" "20260628134741.314":
+  entity bit_tb at 1( 0) + 0 on 27;
+  architecture structure of bit_tb at 7( 78) + 0 on 28;
+file . "../DFF/DFF.vhdl" "5952325f15fa201e871290c2e3dfdeb1f143ba63" "20260628132924.722":
+  entity dff at 1( 0) + 0 on 19;
+  architecture sim of dff at 13( 199) + 0 on 20;
+file . "../../Project_1/OR/OR_Gate.vhdl" "1367e59f522bb4c5a7f53c5bd358b4e041957d4a" "20260628132908.995":
+  entity or_gate at 1( 0) + 0 on 15;
+  architecture structure of or_gate at 13( 197) + 0 on 16;
+file . "../../Project_1/NOT/NOT_Gate.vhdl" "cde9fd3ed9c5172fbdd8d2e5e2c96830f9faa535" "20260628132843.008":
+  entity not_gate at 1( 0) + 0 on 11;
+  architecture structure of not_gate at 12( 173) + 0 on 12;
+file . "../../Project_1/AND/AND_Gate.vhdl" "9f752e2dc9f41aee4904d9b52de035f31aa33ec7" "20260628132856.816":
+  entity and_gate at 1( 0) + 0 on 13;
+  architecture structure of and_gate at 13( 196) + 0 on 14;
+file . "../../Project_1/MUX/MUX_Gate.vhdl" "4fd8998f29ac2ae9b49a30f7ae22c781b9e97783" "20260628132912.856":
+  entity mux_gate at 1( 0) + 0 on 17;
+  architecture sim of mux_gate at 13( 224) + 0 on 18;
+file . "Bit.vhdl" "ad77d3119652e09dec60c1b8c9b48193f56a3211" "20260628134738.455":
+  entity bit at 1( 0) + 0 on 25;
+  architecture sim of bit at 14( 198) + 0 on 26;
